@@ -1,0 +1,3 @@
+$ # This installs the pre-release of v20
+$ pip install python-telegram-bot --pre
+$ python bot.py
